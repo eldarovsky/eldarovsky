@@ -1,4 +1,4 @@
-## SKILLS:
+## TECH STACK:
 - **PROGRAMMING LANGUAGES:** Swift  
 - **FRAMEWORKS:** UIKit, SwiftUI, SwiftLint, Alamofire, Kingfisher, Lottie, AVFoundation  
 - **ARCHITECTURES:** MVC, MVP, MVVM / Router, Coordinator  
